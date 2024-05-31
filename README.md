@@ -38,5 +38,7 @@ This project creates an interactive animation of smiley face blocks inspired by 
 ### References
 - The design and movement were inspired by Piet Mondrian's "Broadway Boogie Woogie" for its geometric shapes and vibrant colors, with a hint of Pac-Man for character movement dynamics.
 
+### Acknowledge
+Acknowledgments to ChatGPT for troubleshooting. 
 
 
